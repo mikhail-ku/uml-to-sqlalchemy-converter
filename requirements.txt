@@ -1,0 +1,7 @@
+# requirements.txt - зависимости для запуска
+PyQt5>=5.15.9
+python-dotenv>=1.0.0
+langchain-core>=0.1.23
+langchain-gigachat>=0.1.1
+pydantic>=1.10.13
+langchain>=0.3.27
